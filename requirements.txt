@@ -1,0 +1,5 @@
+deepface==0.0.75
+opencv-python==4.8.0.76
+dlib==19.24.0
+requests==2.31.0
+twilio==7.18.0
