@@ -2,6 +2,8 @@
 
 **Emotion-Sense** is a Python-based project that uses real-time facial recognition to analyze emotions and respond with humor. It leverages the DeepFace library for emotion detection and Twilio for sending jokes via SMS.
 
+![Ml](src/image.png)
+
 ## Features
 
 - Real-time facial recognition and emotion analysis using your webcam.
